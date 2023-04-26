@@ -21,4 +21,4 @@ $ ls
 
 $ cd SpamWa
 
-$ python Run.py
+$ python SpamWa.py
